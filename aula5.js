@@ -11,7 +11,7 @@ let corSelecionada = null;
 // criando um objeto 
 
 let objetoVazio = { }; // objeto vazio 
-
+  
 let pessoa = {
     nome: 'Rafael',
     idade: 25,

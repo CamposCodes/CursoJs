@@ -8,10 +8,10 @@ let possuiCNH = true;
 let podeAplicar = maiorDeIdade && possuiCNH;
 
 console.log(podeAplicar); // da false pq os 2 n sao true 
-
+  
 // Operador lógico OU (||)
 // retorna TRUE se um dos dois operandos forem true
-
+    
 let maiorDeIdade1 = false;
 let possuiCNH1 = true;
 let podeAplicar1 = maiorDeIdade || possuiCNH;

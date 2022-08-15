@@ -6,4 +6,4 @@ let pontos = 200;
 // variavel = expressão de comparação ? se for verdadeiro : se for falso ;
 let tipo = pontos > 100 ? 'premium' : 'comum' ;
 
-console.log(tipo);
+console.log(tipo);    

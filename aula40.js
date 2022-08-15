@@ -10,7 +10,7 @@ let endereco = {
     cidade: 'xx',
     cep: 'xxx'
 };
-
+   
 function exibirEndereco(endereco){
     for(let chave in endereco)
     {

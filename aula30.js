@@ -7,5 +7,5 @@ function exibirAsteriscos(linhas){
         console.log(padrao);
     }
 }
-
+    
 exibirAsteriscos(5);

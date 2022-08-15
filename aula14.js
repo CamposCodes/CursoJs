@@ -7,10 +7,10 @@
 //false
 // ''
 //NaN - not a number
-
+  
 // # Truthy
 //qualquer valor que não se encaixe em FALSY
-
+  
 let corPersonalizada = '';
 let corPadrao = 'Azul';
 let corPerfil = corPadrao || corPersonalizada;

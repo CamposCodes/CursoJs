@@ -2,7 +2,7 @@
 
 // criar um metodo para ler propriedades de um objeto e
 // exibir somente as propriedades que forem string 
-
+   
 const filme = {
     titulo: 'Os Vingadores' ,
     ano: 2018 ,

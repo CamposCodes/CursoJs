@@ -11,7 +11,7 @@ function Celular(marcaCelular, tamanhoTela, capacidadeBateria){
         console.log("Fazendo a ligação...");
     }   
 }
-
+  
 const celular = new Celular("Azus",5.5,5000);
 console.log(celular);
 

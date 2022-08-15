@@ -26,7 +26,7 @@ const mensagemExmp = `Olá ${nome},
 você foi selecionado para nossa vaga de desenvolvedor Front-end !
 
 Parabens!!!
-
+   
 att,
 Code of.`;
 

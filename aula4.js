@@ -12,3 +12,4 @@ typeof idade;//  = number
 typeof estaAprovado;// = boolean 
 typeof sobrenome; // = undefined
 typeof corSelecionada; // = object 
+  

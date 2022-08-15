@@ -6,7 +6,7 @@ let permissao; // comum - gerente - diretor
 //permissao = 'gerente';
 //permissao = 'diretor';
 permissao = 'erro';
-
+  
 
 
 switch(permissao)

@@ -9,7 +9,7 @@ const mensagem1 = ' Essa é a minha primeira mensagem ';
 const mensagem2 = new String('Bom Dia!');
 
 // + propriedades com strings
-
+   
 // tamanho: length
 
 mensagem2.length;

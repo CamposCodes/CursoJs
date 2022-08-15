@@ -11,7 +11,7 @@ function criaCelular(marcaCelular, tamanhoTela, capacidadeBateria){
         }
     }
 }
-
+   
 const celular1 = criaCelular('Zenfone',5.5,5000);
 console.log(celular1);
 

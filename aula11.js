@@ -9,3 +9,4 @@ console.log('1' === 1);
 //igualdade solta = compara so o valor 
 console.log('1' == 1);
 console.log( 1 == 1 );
+      

@@ -7,3 +7,4 @@ let idade = 20; //tipo: number literal
 let estaAprovado = true; //tipo: boolean 
 let sobrenome ; //tipo: undefined - indefinido 
 let corSelecionada = null; // quando você quer redefinir um valor - tipo: objeto
+  

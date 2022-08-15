@@ -7,7 +7,7 @@ function exibirNumerosPrimos(limite){
         }
     }
 }
-
+  
 function ehPrimo(numero){
 
     for(let divisor = 2; divisor < numero; divisor++){

@@ -11,6 +11,6 @@ function maior(num1 , num2){
 
     return maior;
 }
-
+   
 let valMaior = maior(1,10);
 console.log('o valor maior eh:', valMaior);

@@ -10,3 +10,4 @@ do{
 
 // o 'do...while' executa  uma vez e depois verifica, 
 //ja o while e for verificam antes de executar ja na primeira vez
+     

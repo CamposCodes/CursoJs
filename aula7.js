@@ -12,7 +12,7 @@ function resetaCor(cor, tonalidade){
 console.log(corSite);
 resetaCor("verde", "claro");
 console.log(corSite);
-
+  
 let meuNome = 'Gabriel';
 
 function adicionaSobrenome(sobrenome){

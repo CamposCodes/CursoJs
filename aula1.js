@@ -6,7 +6,7 @@ console.log('Bem vindo ao curso');
 // "let" e "var" é a mesma coisa, let só é mais atual 
 let idadePessoa1 = 17;
 var nomePessoa1 = 'Henrique';
-
+   
 console.log(nomePessoa1);
 console.log(idadePessoa1);
 

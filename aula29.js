@@ -8,7 +8,7 @@
 // 70-79: C
 // 80-89: B
 // 90-100: A
-
+  
 const array = [90,90,100]; // m: 75
 
 console.log(mediaDoAluno(array));

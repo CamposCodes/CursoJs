@@ -12,4 +12,4 @@ while(i >= 1){
         console.log( i , "IMPAR!");
     }
     i--;
-}
+}   

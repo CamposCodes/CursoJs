@@ -11,7 +11,7 @@
 /* AULA 09 - OPERADORES ARITIMÉTICOS  */
 
 // + , - , / , * , **
-
+  
 let salario = 100;
 
 console.log(salario+salario);

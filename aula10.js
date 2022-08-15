@@ -6,3 +6,4 @@ valorTecladoGamer -= valorTecladoGamer; // valorTecladoGamer = valorTecladoGamer
 
 console.log(valorTecladoGamer);
 
+  

@@ -6,7 +6,7 @@ const pessoa = {
     nome: 'Gabriel',
     idade: 25
 };
-
+  
 //(key-value)
 for(let chave in pessoa){
     console.log(chave, pessoa['nome']); // ou pessoa.nome

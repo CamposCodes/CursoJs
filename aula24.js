@@ -5,7 +5,7 @@
 // se não for divisivel por 3 ou 5 --> retorna o proprio num
 // se passar algo que não é numero --> retorna mensagem que não é um numero 
 
-
+  
 function fizzBuzz(num){
     if(typeof num == 'number'){
         if(num % 3 == 0 && num % 5 == 0){

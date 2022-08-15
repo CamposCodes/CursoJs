@@ -10,7 +10,7 @@ const celular = {
         console.log("Ligando...");
     }
 }
-
+   
 /* FORMAS DE CLONAR OBJETO:
 
 1.( Object.assign({novos-atributos-para-objetoClone},objeto-que-quer-clonar)) */

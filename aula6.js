@@ -10,7 +10,7 @@ console.log(familia[3]);
 // para saber o tamanho do vetor (.length)
 
 console.log(familia.length);
-
+  
 //definindo um colega no array 
 
 let colega = [ 'Henrique', 17, 'Juiz de Fora'];

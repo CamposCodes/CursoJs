@@ -8,7 +8,7 @@ function VerificaParImpar(num){
         console.log('NÚMERO IMPAR');
     }
 }
-
+  
 function exibeTipo(limite){
     for(let i = 0; i < limite; i++){
         console.log('Número :', i);
