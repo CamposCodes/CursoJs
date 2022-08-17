@@ -1,4 +1,4 @@
-/* AULA 04 - TIPAGEM DINÂMICA */
+/* AULA 04 - TIPAGEM DINÂMICA */  
 
 let nome = 'Rafael'; 
 let idade = 20; 

@@ -1,5 +1,5 @@
 /* AULA 24 - FIZZBUZZ - MINI PROJETO */
-
+ 
 // valor divisivel por 3 --> Fizz
 // valor divisivel por 5 --> Buzz
 // se não for divisivel por 3 ou 5 --> retorna o proprio num

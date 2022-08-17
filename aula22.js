@@ -1,4 +1,4 @@
-/* AULA 22 - LAÇO/LOOP/FOR...of */
+/* AULA 22 - LAÇO/LOOP/FOR...of */ 
 
 // 5. for...of
 

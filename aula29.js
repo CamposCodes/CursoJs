@@ -1,4 +1,4 @@
-/* AULA 29 - MEDIA DE NOTAS ESCOLARES - MINI PROJETO */
+/* AULA 29 - MEDIA DE NOTAS ESCOLARES - MINI PROJETO */ 
 
 // exercicios notas escolares 
 // obtenha a media de notas a partir de uma array 

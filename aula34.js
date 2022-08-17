@@ -1,6 +1,6 @@
 /* AULA 34 - NATUREZA DINÂMICA DE OBJETOS  */
 // você pode adicionar e deletar propriedades de um objeto que já foi criado !
-
+ 
 const mouse = {
     cor: 'red',
     marca: 'Razer'

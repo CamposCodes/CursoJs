@@ -1,4 +1,4 @@
-/* AULA 06 - ARRAYS (vetores) */
+/* AULA 06 - ARRAYS (vetores) */ 
 
 let familia = [ 'Gabriel', 20, 'masculino', true];
 

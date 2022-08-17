@@ -1,4 +1,4 @@
-/* AULA 28 - MULTIPLOS DE 3 E 5 - MINI PROJETO */
+/* AULA 28 - MULTIPLOS DE 3 E 5 - MINI PROJETO */ 
 
 // criar uma função que retorna a soma de todos os numeros que multiplos de 3 e 5 
 

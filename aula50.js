@@ -1,5 +1,5 @@
 /* AULA 50 - ESVAZIANDO UM ARRAY */
-
+  
 const numeros = [1,2,3,4,5,6];
 let numerosX = [1,2,3,4,5,6];
 let referencia = numerosX;

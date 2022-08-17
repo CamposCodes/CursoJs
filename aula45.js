@@ -1,5 +1,5 @@
 /* A PARTIR DAQUI - INTRODUÇÃO A ARRAYS */
-
+ 
 // add novos elementos
 // encontrar elementos
 // remover elementos

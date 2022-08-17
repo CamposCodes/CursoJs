@@ -8,7 +8,7 @@
 
 // A partir daqui vamos falar de cada um deles começando pelos Aritimeticos 
 
-/* AULA 09 - OPERADORES ARITIMÉTICOS  */
+/* AULA 09 - OPERADORES ARITIMÉTICOS  */  
 
 // + , - , / , * , **
   

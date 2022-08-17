@@ -1,5 +1,5 @@
 /* AULA 41 - IGUALDADE DE OBJETOS - MINI PROJETO/EXERCÍCIO */
-
+  
 function endereco(rua,cidade,cep){
     this.rua = rua;
     this.cidade = cidade;

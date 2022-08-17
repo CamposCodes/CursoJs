@@ -1,4 +1,4 @@
-/* AULA 23 - MAXIMO ENTRE DOIS VALORES - MINI PROJETO */
+/* AULA 23 - MAXIMO ENTRE DOIS VALORES - MINI PROJETO */  
 
 function maior(num1 , num2){
     let maior = 0;

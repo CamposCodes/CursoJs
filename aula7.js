@@ -1,4 +1,4 @@
-/* AULA 07 - FUCTIONS (funções) */
+/* AULA 07 - FUCTIONS (funções) */  
 // é um outro - tipo de refrencia -
 
 // nomeando uma função = VERBO + SUBSTANTIVO 

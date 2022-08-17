@@ -1,4 +1,4 @@
-/* AULA 31 - CONTADOR DE NÚMEROS PRIMOS - MINI PROJETO */
+/* AULA 31 - CONTADOR DE NÚMEROS PRIMOS - MINI PROJETO */ 
 
 function exibirNumerosPrimos(limite){
     for(let numero = 2 ; numero <= limite; numero++){

@@ -1,5 +1,5 @@
 /* AULA 52 - OPERADOR SPREAD ('...') */
-
+  
 const primeiro = [1,2,3];
 const segundo = [4,5,6];
 

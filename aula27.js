@@ -1,4 +1,4 @@
-/* AULA 27 - ENCONTRE A STRING - MINI PROJETO */
+/* AULA 27 - ENCONTRE A STRING - MINI PROJETO */ 
 
 // criar um metodo para ler propriedades de um objeto e
 // exibir somente as propriedades que forem string 

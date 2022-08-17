@@ -1,5 +1,5 @@
 /* AULA 49 - REMOVER ELEMENTOS DE UM ARRAY */
-
+ 
 const numeros = [1,2,3,4,5,6];
 numeros.push();
 numeros.unshift();

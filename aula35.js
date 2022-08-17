@@ -1,5 +1,5 @@
 /* AULA 35 - CLONANDO OBJETOS */
-
+ 
 const celular = {
     marcaCelular: 'Azus',
     tamanhoTela:{

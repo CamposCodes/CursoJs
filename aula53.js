@@ -1,6 +1,6 @@
 /* AULA 53 - 'forEach' */
 //iterando(percorrendo o array)
-
+  
 const numeros = [1,2,3,4,5];
 
 // outro metodo para isso:

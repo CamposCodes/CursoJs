@@ -1,6 +1,5 @@
 /* AULA 48 - ARROW FUNCTIONS - FUNÇÕES DE SETA */
-
-
+  
 const marcas = [
     {id:1,nome:'a'},
     {id:2,nome:'b'}

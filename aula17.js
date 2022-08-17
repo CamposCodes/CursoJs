@@ -1,4 +1,4 @@
-/* AULA 17 - SWITCH... CASE */
+/* AULA 17 - SWITCH... CASE */  
 
 let permissao; // comum - gerente - diretor 
 

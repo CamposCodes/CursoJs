@@ -1,4 +1,4 @@
-/* AULA 30 - CONTADOR DE ASTERISTICOS */
+/* AULA 30 - CONTADOR DE ASTERISTICOS */ 
 
 function exibirAsteriscos(linhas){
     let padrao = '';

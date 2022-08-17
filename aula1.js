@@ -1,4 +1,4 @@
-/* AULA 01 - VARIAVEIS */
+/* AULA 01 - VARIAVEIS */ 
 
 console.log('Gabriel');
 console.log('Bem vindo ao curso');

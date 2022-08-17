@@ -1,5 +1,5 @@
 /* AULA 47 - ENCONTRAR ELEMENTOS(tipos referencia) DE UM ARRAY */
-
+ 
 const marcas = [
     {id:1,nome:'a'},
     {id:2,nome:'b'}

@@ -1,4 +1,4 @@
-/* AULA 26 - PAR OU IMPAR - MINI PROJETO */
+/* AULA 26 - PAR OU IMPAR - MINI PROJETO */ 
 
 function VerificaParImpar(num){
     if(num % 2 == 0){

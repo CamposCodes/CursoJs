@@ -1,5 +1,5 @@
 /* AULA 42 - OBJETO POSTAGEM DE BLOG - MINI PROJETO/EXERCÍCIO */
-
+ 
 let postagem = {
     titulo: 'x',
     mensagem: 'xx',

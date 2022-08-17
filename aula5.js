@@ -1,4 +1,4 @@
-/* AULA 05 - OBJETOS */
+/* AULA 05 - OBJETOS */  
 
 let nome = 'Rafael'; 
 let idade = 20; 

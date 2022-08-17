@@ -1,4 +1,4 @@
-/* AULA 32 - FACTORY FUNCTIONS ( FUNÇÕES DE FÁBRICA ) */
+/* AULA 32 - FACTORY FUNCTIONS ( FUNÇÕES DE FÁBRICA ) */ 
 
 
 function criaCelular(marcaCelular, tamanhoTela, capacidadeBateria){

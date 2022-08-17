@@ -1,5 +1,5 @@
 /* AULA 54 - COMBINANDO ARRAYS - 'join' e 'split' */
-
+ 
 // adicionando 
 const numeros = [1,2,3,4,5];
 const combinado = numeros.join('.'); //adiciona o item do () a cada item do array

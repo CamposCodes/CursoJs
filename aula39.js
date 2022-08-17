@@ -1,4 +1,4 @@
-/* AULA 39 - DATE */
+/* AULA 39 - DATE */ 
 
 const data1 = new Date(); 
 const data2 = new Date('March 06 2022 09:30'); 

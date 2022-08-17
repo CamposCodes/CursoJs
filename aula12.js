@@ -1,4 +1,4 @@
-/* AULA 12 - OPERADOR TERNÁRIO */
+/* AULA 12 - OPERADOR TERNÁRIO */  
 
 // tem um cliente, +100 pts - cliente premium , - de 100 pts é comum 
 

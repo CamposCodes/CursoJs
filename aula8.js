@@ -1,4 +1,4 @@
-/* AULA 08 - DIFERENTES TIPOS DE FUNÇÕES */
+/* AULA 08 - DIFERENTES TIPOS DE FUNÇÕES */  
 
 // existem 2 tipos de função :
 // 1 - realiza tarefa mas não retorna nada 

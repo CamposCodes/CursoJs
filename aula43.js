@@ -1,5 +1,5 @@
 /* AULA 43 - CONSTRUCTOR FUNCTION - MINI PROJETO/EXERCÍCIO */
-
+  
 function Postagem(titulo, mensagem, autor){
     this.titulo = titulo,
     this.mensagem = mensagem,

@@ -1,4 +1,4 @@
-/* AULA 02 - CONSTANTES */
+/* AULA 02 - CONSTANTES */ 
 
 let valorIngressoAdulto = 20;
 

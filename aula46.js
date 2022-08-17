@@ -1,5 +1,5 @@
 /* AULA 46 - ENCONTRAR ELEMENTOS(tipos primitivos) DE UM ARRAY */
-
+ 
 const numeros = [1,2,3,4,1,4,1];
 
 let teste = numeros.indexOf(3); //busca o valor do () no array e retorna o indice dele no array se encontrado

@@ -1,5 +1,5 @@
 /* AULA 44 - FAIXA DE PREÇO - MINI PROJETO/EXERCÍCIO */
-
+  
 //1ª op ==> aray de objetos
 
 let faixas = [
