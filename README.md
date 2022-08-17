@@ -1,6 +1,7 @@
 # Curso completo JavaScript 2022 
 
- - curso que realizei em conjunto com a Universidade Federal de Juiz de Fora-UFJF .
+ - Curso que realizei em conjunto com a Universidade Federal de Juiz de Fora-UFJF .
+ 
  - O curso aborda os seguintes tópicos: 
     - AULA 01 - VARIAVEIS 
     - AULA 02 - CONSTANTES 
